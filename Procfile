@@ -1,1 +1,1 @@
-web: python3 bot.js
+web: python3 main.js
